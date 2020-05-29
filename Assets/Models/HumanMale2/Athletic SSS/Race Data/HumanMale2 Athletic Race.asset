@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d33591a744673429e1681df5574ac0, type: 3}
+  m_Name: HumanMale2 Athletic Race
+  m_EditorClassIdentifier: 
+  baseRaceRecipe: {fileID: 11400000, guid: 7dffcde57f617c74ebf426fc22832e0d, type: 2}
+  wardrobeSlots:
+  - None
+  - Face
+  - Hair
+  - Complexion
+  - Eyebrows
+  - Beard
+  - Ears
+  - Helmet
+  - Shoulders
+  - Chest
+  - Arms
+  - Hands
+  - Waist
+  - Legs
+  - Feet
+  backwardsCompatibleWith: []
+  _crossCompatibilitySettings:
+    settingsData: []
+  raceThumbnails: {fullThumb: {fileID: 0}, faceThumb: {fileID: 0}, wardrobeSlotThumbs: []
+}
+  raceName: HumanMale2 Athletic Race
+  _dnaConverterListLegacy: []
+  _dnaConverterList:
+    _converters:
+    - {fileID: 11400000, guid: e0aaeb38014cb34458d06bce9a194ac0, type: 2}
+  TPose: {fileID: 11400000, guid: db47cbe46b96a5a4480d92b422276f45, type: 2}
+  umaTarget: 0
+  genericRootMotionTransformName: 
+  expressionSet: {fileID: 0}
+  dnaRanges: []
+  raceHeight: 2
+  raceRadius: 0.25
+  raceMass: 50

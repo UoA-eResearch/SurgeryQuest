@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d33591a744673429e1681df5574ac0, type: 3}
+  m_Name: HumanMale2
+  m_EditorClassIdentifier: 
+  baseRaceRecipe: {fileID: 11400000, guid: ed03a09abd30bc3439f7795a2d7ba46a, type: 2}
+  wardrobeSlots:
+  - None
+  - Face
+  - Hair
+  - Complexion
+  - Eyebrows
+  - Beard
+  - Ears
+  - Helmet
+  - Shoulders
+  - Chest
+  - Arms
+  - Hands
+  - Waist
+  - Legs
+  - Feet
+  - Underwear
+  backwardsCompatibleWith: []
+  _crossCompatibilitySettings:
+    settingsData:
+    - ccRace: HumanMale
+      ccSettings:
+      - raceSlot: HumanMale2_Head
+        compatibleRaceSlot: M_High poly Head
+        overlaysMatch: 1
+      - raceSlot: HumanMale2_Feet
+        compatibleRaceSlot: MaleFeet
+        overlaysMatch: 1
+      - raceSlot: HumanMale2_Hands
+        compatibleRaceSlot: MaleHands
+        overlaysMatch: 1
+      - raceSlot: HumanMale2_Legs
+        compatibleRaceSlot: MaleLegs
+        overlaysMatch: 1
+      - raceSlot: HumanMale2_Torso
+        compatibleRaceSlot: MaleTorso
+        overlaysMatch: 1
+  raceThumbnails: {fullThumb: {fileID: 0}, faceThumb: {fileID: 0}, wardrobeSlotThumbs: []
+}
+  raceName: HumanMale2
+  dnaConverterList:
+  - {fileID: 11400000, guid: 82b31de417945d14aa3ed485fe933c5d, type: 2}
+  - {fileID: 11400000, guid: 2a5c36ccd1f394ff3b7aac62b5d1e308, type: 2}
+  TPose: {fileID: 11400000, guid: db47cbe46b96a5a4480d92b422276f45, type: 2}
+  umaTarget: 0
+  genericRootMotionTransformName: 
+  expressionSet: {fileID: 11400000, guid: 3ed354ee89bd94ac895fe6e0e73bcf86, type: 2}
+  dnaRanges:
+  - {fileID: 11400000, guid: 71e836c192d6b46edbdd9cdd89da143e, type: 2}
+  raceHeight: 2
+  raceRadius: 0.25
+  raceMass: 50

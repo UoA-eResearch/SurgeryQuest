@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d33591a744673429e1681df5574ac0, type: 3}
+  m_Name: Athletic Human Female 2 RaceData SSS
+  m_EditorClassIdentifier: 
+  baseRaceRecipe: {fileID: 11400000, guid: a9bee49049b0e904f915f9bca86a75f7, type: 2}
+  wardrobeSlots:
+  - None
+  - Face
+  - Hair
+  - Complexion
+  - Eyebrows
+  - Beard
+  - Ears
+  - Helmet
+  - Shoulders
+  - Chest
+  - Arms
+  - Hands
+  - Waist
+  - Legs
+  - Feet
+  - Underwear
+  - Cape
+  backwardsCompatibleWith: []
+  _crossCompatibilitySettings:
+    settingsData:
+    - ccRace: HumanFemale
+      ccSettings:
+      - raceSlot: F_Base2_Eyes
+        compatibleRaceSlot: FemaleEyes
+        overlaysMatch: 1
+      - raceSlot: F_Base2_Feet
+        compatibleRaceSlot: FemaleFeet
+        overlaysMatch: 1
+      - raceSlot: F_Base2_Hands
+        compatibleRaceSlot: FemaleHands
+        overlaysMatch: 1
+      - raceSlot: F_Base2_Head
+        compatibleRaceSlot: F_High poly head
+        overlaysMatch: 1
+      - raceSlot: F_Base2_Legs
+        compatibleRaceSlot: FemaleLegs
+        overlaysMatch: 1
+      - raceSlot: F_Base2_Torso
+        compatibleRaceSlot: FemaleTorso
+        overlaysMatch: 1
+  raceThumbnails: {fullThumb: {fileID: 0}, faceThumb: {fileID: 0}, wardrobeSlotThumbs: []
+}
+  raceName: Athletic Human Female 2 RaceData SSS
+  _dnaConverterListLegacy:
+  - {fileID: 11400000, guid: 9e2e0dcce00983248a5c1b8107cb1b1d, type: 3}
+  - {fileID: 11400000, guid: 2a5c36ccd1f394ff3b7aac62b5d1e308, type: 3}
+  _dnaConverterList:
+    _converters:
+    - {fileID: 11400000, guid: 473ca36720f3b794291b78a5b82c6a8f, type: 2}
+  TPose: {fileID: 11400000, guid: fb03a00b909a3574c9f660ffb88051f8, type: 2}
+  umaTarget: 0
+  genericRootMotionTransformName: 
+  expressionSet: {fileID: 11400000, guid: 5912431641bbc4d858ffd8e14168c56a, type: 2}
+  dnaRanges:
+  - {fileID: 11400000, guid: e98d105c42d0f4a1f89444516e0a93b3, type: 2}
+  raceHeight: 2
+  raceRadius: 0.25
+  raceMass: 50

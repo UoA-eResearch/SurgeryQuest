@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4834e6077abe64e968f9f87c9ac70a, type: 3}
+  m_Name: M_Athletic _Eye Inner
+  m_EditorClassIdentifier: 
+  overlayName: M_Athletic _Eye Inner
+  overlayType: 0
+  rect:
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  alphaMask: {fileID: 2800000, guid: d03b3b0a9f509bc45aa0629f22ce32fc, type: 3}
+  textureList:
+  - {fileID: 2800000, guid: f05c0427b44a57f4f9ed75c526bfeb75, type: 3}
+  - {fileID: 2800000, guid: 2775f72d2940ddb42ac1ccef9289f743, type: 3}
+  - {fileID: 2800000, guid: 33b089d03a222f744a37da76ba1a915d, type: 3}
+  tags: []
+  material: {fileID: 11400000, guid: 8e29dbac5d2e82f44a759a7e2cc568ab, type: 2}
+  OcclusionEntries: []

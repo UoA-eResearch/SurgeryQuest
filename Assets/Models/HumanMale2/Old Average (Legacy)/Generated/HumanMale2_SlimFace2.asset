@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9448878e2e40f1a4c9f8fd2b56832b13, type: 3}
+  m_Name: HumanMale2_SlimFace2
+  m_EditorClassIdentifier: 
+  recipeType: Standard
+  DisplayValue: 
+  compatibleRaces: []
+  wardrobeRecipeThumbs: []
+  wardrobeSlot: None
+  Hides: []
+  suppressWardrobeSlots: []
+  activeWardrobeSet: []
+  MeshHideAssets: []
+  recipeString: '{"version":3,"packedSlotDataList":[],"slotsV2":[],"slotsV3":[{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"","scale":1,"copyIdx":-1,"overlays":[]},{"id":"HumanMale2_Eyes","scale":100,"copyIdx":-1,"overlays":[{"id":"HumanMale2_Eyes","colorIdx":1,"rect":[0,0,0,0]}]},{"id":"HumanMale2_Feet","scale":100,"copyIdx":-1,"overlays":[{"id":"HumanMale2_Bod","colorIdx":0,"rect":[0,0,0,0]}]},{"id":"HumanMale2_Hands","scale":100,"copyIdx":15,"overlays":[]},{"id":"HumanMale2_Head","scale":100,"copyIdx":-1,"overlays":[{"id":"M_Strong
+    Face","colorIdx":0,"rect":[0,0,0,0]}]},{"id":"HumanMale2_Legs","scale":100,"copyIdx":15,"overlays":[]},{"id":"HumanMale2_Torso","scale":100,"copyIdx":15,"overlays":[]},{"id":"HumanMale2_Underwear","scale":100,"copyIdx":-1,"overlays":[{"id":"HumanMale2_Underwear","colorIdx":1,"rect":[0,0,0,0]}]}],"colors":[],"fColors":[{"name":"Skin","colors":[56,56,56,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]},{"name":"-","colors":[255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0,255,255,255,255,0,0,0,0]}],"sharedColorCount":1,"race":"HumanMale","packedDna":[{"dnaType":"DynamicUMADna","dnaTypeHash":815443803,"packedDna":"{\"bDnaAsset\":{\"instanceID\":12952},\"bDnaAssetName\":\"HumanMaleDynamicDnaAsset\",\"bDnaSettings\":[{\"name\":\"skinGreenness\",\"value\":128},{\"name\":\"skinBlueness\",\"value\":128},{\"name\":\"skinRedness\",\"value\":128},{\"name\":\"height\",\"value\":128},{\"name\":\"headSize\",\"value\":125},{\"name\":\"headWidth\",\"value\":72},{\"name\":\"neckThickness\",\"value\":93},{\"name\":\"armLength\",\"value\":129},{\"name\":\"forearmLength\",\"value\":128},{\"name\":\"armWidth\",\"value\":87},{\"name\":\"forearmWidth\",\"value\":128},{\"name\":\"handsSize\",\"value\":117},{\"name\":\"feetSize\",\"value\":117},{\"name\":\"legSeparation\",\"value\":128},{\"name\":\"upperMuscle\",\"value\":103},{\"name\":\"lowerMuscle\",\"value\":112},{\"name\":\"upperWeight\",\"value\":95},{\"name\":\"lowerWeight\",\"value\":48},{\"name\":\"legsSize\",\"value\":137},{\"name\":\"belly\",\"value\":94},{\"name\":\"waist\",\"value\":88},{\"name\":\"gluteusSize\",\"value\":128},{\"name\":\"earsSize\",\"value\":141},{\"name\":\"earsPosition\",\"value\":190},{\"name\":\"earsRotation\",\"value\":210},{\"name\":\"noseSize\",\"value\":118},{\"name\":\"noseCurve\",\"value\":248},{\"name\":\"noseWidth\",\"value\":159},{\"name\":\"noseInclination\",\"value\":128},{\"name\":\"nosePosition\",\"value\":177},{\"name\":\"nosePronounced\",\"value\":155},{\"name\":\"noseFlatten\",\"value\":205},{\"name\":\"chinSize\",\"value\":162},{\"name\":\"chinPronounced\",\"value\":255},{\"name\":\"chinPosition\",\"value\":0},{\"name\":\"mandibleSize\",\"value\":90},{\"name\":\"jawsSize\",\"value\":43},{\"name\":\"jawsPosition\",\"value\":136},{\"name\":\"cheekSize\",\"value\":58},{\"name\":\"cheekPosition\",\"value\":144},{\"name\":\"lowCheekPronounced\",\"value\":128},{\"name\":\"lowCheekPosition\",\"value\":128},{\"name\":\"foreheadSize\",\"value\":45},{\"name\":\"foreheadPosition\",\"value\":236},{\"name\":\"lipsSize\",\"value\":64},{\"name\":\"mouthSize\",\"value\":77},{\"name\":\"eyeRotation\",\"value\":189},{\"name\":\"eyeSize\",\"value\":158},{\"name\":\"breastSize\",\"value\":128},{\"name\":\"eyeSpacing\",\"value\":128}]}"}],"wardrobeSet":[],"packedRecipeType":"Standard"}'

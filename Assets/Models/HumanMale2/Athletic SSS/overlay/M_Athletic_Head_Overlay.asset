@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4834e6077abe64e968f9f87c9ac70a, type: 3}
+  m_Name: M_Athletic_Head_Overlay
+  m_EditorClassIdentifier: 
+  overlayName: M_Athletic_Head_Overlay
+  overlayType: 0
+  rect:
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  alphaMask: {fileID: 2800000, guid: d03b3b0a9f509bc45aa0629f22ce32fc, type: 3}
+  textureList:
+  - {fileID: 2800000, guid: 7cf6b36736b8793479faaa5bdf38a1dc, type: 3}
+  - {fileID: 2800000, guid: fc50b2cecac69c0468a5b487c735ceef, type: 3}
+  - {fileID: 2800000, guid: ff2e943957680c54d9f81cd749589990, type: 3}
+  - {fileID: 2800000, guid: 8d248f51de31ff341a2b697ea7132b77, type: 3}
+  - {fileID: 2800000, guid: dd3337be1a332864a99e19c2409762a5, type: 3}
+  tags: []
+  material: {fileID: 11400000, guid: 9baec5f7e5dc828408f9350562791968, type: 2}
+  OcclusionEntries: []

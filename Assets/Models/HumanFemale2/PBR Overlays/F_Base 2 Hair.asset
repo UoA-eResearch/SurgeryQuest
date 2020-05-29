@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4834e6077abe64e968f9f87c9ac70a, type: 3}
+  m_Name: F_Base 2 Hair
+  m_EditorClassIdentifier: 
+  overlayName: F_Base 2 Hair
+  overlayType: 0
+  rect:
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  alphaMask: {fileID: 2800000, guid: d03b3b0a9f509bc45aa0629f22ce32fc, type: 3}
+  textureList:
+  - {fileID: 2800000, guid: 3f5c72b4b8f806e41814cfac0c7ca182, type: 3}
+  - {fileID: 2800000, guid: b4290c9166c30184d875b9f7704d5303, type: 3}
+  - {fileID: 2800000, guid: 7b71c78a67d067d4f86f478298937cdc, type: 3}
+  tags: []
+  material: {fileID: 11400000, guid: 5636c08d77c1fbe46b8250026a847d1f, type: 2}
+  OcclusionEntries: []

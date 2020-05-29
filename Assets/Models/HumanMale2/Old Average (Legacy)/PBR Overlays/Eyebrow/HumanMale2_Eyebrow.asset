@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4834e6077abe64e968f9f87c9ac70a, type: 3}
+  m_Name: HumanMale2_Eyebrow
+  m_EditorClassIdentifier: 
+  overlayName: HumanMale2_Eyebrow
+  overlayType: 0
+  rect:
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  alphaMask: {fileID: 0}
+  textureList:
+  - {fileID: 2800000, guid: d55defeca30b0754b801f79707b31d7f, type: 3}
+  - {fileID: 2800000, guid: c9ff2a5d683c01b4a9f225b1c9a186c7, type: 3}
+  - {fileID: 2800000, guid: 101e59256d3b6824cb200ffa55e83e99, type: 3}
+  tags: []
+  material: {fileID: 11400000, guid: 2123281041b02f14c9c9a421b009dea7, type: 2}
+  OcclusionEntries: []
